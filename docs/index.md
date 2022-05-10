@@ -82,10 +82,11 @@ program.  Programming experience will be helpful but is not a prerequisite.
 Interested students should complete [the questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf3wtKZ1UDgUYY3eSlsVQD2iUvmg7F7VzonaI4Q480oF-FtPQ/viewform)
 
 
-
 ## Registration
 
-Information about how to register for this course will be provided soon.
+[The questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf3wtKZ1UDgUYY3eSlsVQD2iUvmg7F7VzonaI4Q480oF-FtPQ/viewform) will serve as the
+registration process, so please fill it in if you have not already. It will also
+provide us with valuable background information which will help tailor the course.
 
 ## Contact
 
