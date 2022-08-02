@@ -1,5 +1,9 @@
 # QuantEcon Summer Course in Quantitative Economics
 
+!!! important "Missing Registration for Google Classroom"
+    If you have not recieved an email containing the sign up link
+    for the Workshop Google Classroom please check your SPAM folder
+    otherwise email us on `workshops@quantecon.org`
 
 The QuantEcon Indian Summer Workshop is an online intensive course in
 quantitative economics for Indian students, presented by
