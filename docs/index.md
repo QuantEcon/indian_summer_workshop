@@ -31,7 +31,11 @@ If you have not received this access code please check your SPAM folder or get i
 * Week 1: August 8th--12th (Monday--Friday) 
 * Week 2: August 15th--19th (Monday--Friday) 
 
-An overview of topics is available through Google Classroom.
+## Topics
+
+[This PDF](/img/qe_workshop_mindmap.pdf) gives a summary of topics by day.
+
+A more detailed overview of topics is available through Google Classroom.
 
 ## How will the Workshops Run?
 
