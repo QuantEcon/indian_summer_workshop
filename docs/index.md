@@ -22,9 +22,9 @@ Sciences.
 
 We will use Google Classroom to distribute workshop materials and exercises.
 
-An access code has been emailed to all registered participants. 
+An invitation link has been emailed to all registered participants. 
 
-If you have not received this access code please check your SPAM folder or get in touch with us at `workshops@quantecon.org`.
+If you have not recieved this sign-up link please check your SPAM folder or get in touch with us at `workshops@quantecon.org`.
 
 ## Schedule
 
